@@ -1,3 +1,7 @@
 Horse
 Cow
 Sheep
+
+Tiger
+Alligator
+Elephant
